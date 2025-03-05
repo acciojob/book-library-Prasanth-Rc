@@ -32,11 +32,11 @@ body {
   border-radius: 8px;
 }
 
-.book h1 {
+.book h2 {
   margin: 10px 0;
   font-size: 1.5em;
   color: #333;
-  text-align: left;
+  text-align: left; 
 }
 
 .book .author {
@@ -53,6 +53,6 @@ body {
   font-weight: bold;
   margin: 10px 0;
   padding: 10px;
-  border-radius: 4px; 
+  border-radius: 4px;
   text-align: center;
 }
