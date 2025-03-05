@@ -32,11 +32,15 @@ body {
   border-radius: 8px;
 }
 
-.book h1 {
+.book h2 {
   margin: 10px 0;
   font-size: 1.5em;
   color: #333;
   text-align: left;
+}
+
+h1{
+	text-align: center;
 }
 
 .book .author {
